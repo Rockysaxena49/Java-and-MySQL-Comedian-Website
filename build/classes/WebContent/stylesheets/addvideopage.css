@@ -1,0 +1,35 @@
+body {
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.topnavbar {
+  	width: 100%;
+	height: 60px;
+	background-color: #dedcdb;
+	box-shadow: 0px 1px 10px;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 20% 80%;
+	align-content: center;
+}
+
+.container2 {
+	display: grid;
+	grid-template-columns: 20% 60% 20%;
+	align-content: center;
+}
+
+.login-button {
+	position: absolute;
+	padding-top: 10px;
+	margin-left: 25px;
+}
+
+.page-title {
+	padding-top: 10px;
+	font-size: 24px;
+	margin-left: 400px;
+}

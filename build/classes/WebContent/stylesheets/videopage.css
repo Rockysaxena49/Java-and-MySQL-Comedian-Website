@@ -1,0 +1,42 @@
+.video-block {
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+.title-text {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.video-info {
+	margin-left: 40px;
+	width: 660px;
+}
+
+.post-user {
+	font-size: 14px;
+	
+}
+
+.post-date {
+	font-size: 14px;
+}
+
+.review-block {
+	margin-left: 40px;
+	display: grid;
+	grid-template-columns: 70% 30%;
+}
+
+.comments {
+	margin-left: 40px;
+}
+
+.comment-user {
+	font-size: 14px;
+	font-weight: bold;	
+}
+
+.comment-remark {
+	font-size: 14px;
+}
